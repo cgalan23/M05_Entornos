@@ -17,6 +17,6 @@ public class ExerciciJavaMath5 {
             }
         }
         a = resultado;
-        System.out.println(a);
+        System.out.println("5 * 11 = " + a);
     }
 }
