@@ -9,7 +9,7 @@ public class ExerciciJavaMath5 {
 
         System.out.println("Multiplicación de dos números sin usar el *");
 
-        int a = 5, b = 11, resultado = 0;
+        int a = 45, b = 11, resultado = 0; /*este es el segundo cambio */
 
         for (int i = 0; i < b; i++) {
             if (i < b) {
