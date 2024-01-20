@@ -7,9 +7,9 @@ public class ExerciciJavaMath5 {
          * int a = 5, b = 11;
          */
 
-        System.out.println("Multiplicación de dos números enteros sin usar el *"); // New change 
+        System.out.println("Multiplicación de dos números enteros sin usar el *");
 
-        int a = 25, b = 11, resultado = 0;
+        int a = 5, b = 11, resultado = 0;
 
         for (int i = 0; i < b; i++) {
             if (i < b) {
