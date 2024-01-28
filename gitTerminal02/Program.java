@@ -50,9 +50,9 @@ public class Program {
 
 		in.close();
 
-		System.out.println("\nEl área es: " + area(radi));
+		System.out.println("\nEl área del circulo es: " + area(radi));
 
-		System.out.println("\nEl perimetro es: " + perimeter(radi));
+		System.out.println("\nEl perimetro del circulo es: " + perimeter(radi));
 
 	}
 }
