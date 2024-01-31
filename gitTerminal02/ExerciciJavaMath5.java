@@ -1,5 +1,7 @@
 package gitTerminal02;
+
 public class ExerciciJavaMath5 {
+	
     public static void main(String[] args) {
         /*
          * Escribe un snippet que imprima por pantalla el resultado de multiplicar dos
